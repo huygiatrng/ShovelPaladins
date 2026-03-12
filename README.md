@@ -54,7 +54,7 @@ OUTPUT : A Game called "Shovel Paladins".
 
 - [James Cato](https://github.com/catoja1107)
 - [Sriniha Mourila](https://github.com/Sriniha)
-- [Huy Truong](https://github.com/huygiatrng)
+- [Aaron Truong](https://github.com/huygiatrng)
 
 ## Copyright and license
 
